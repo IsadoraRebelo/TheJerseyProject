@@ -7,9 +7,9 @@ interface CollectionParams {
 
 export async function GET(request: Request, context: CollectionParams) {
   const { params } = context;
-  const response = data.filter(
+  const response = data.find(
     (collection) => params.collectionId === collection.id.toString()
   );
 
-  return NextResponse.json(response[0]);
+  return NextResponse.json(response);
 }
