@@ -10,6 +10,11 @@
   font-family: var(--font-geist-sans);
 }
 
+.status {
+  margin-top: 20px;
+  padding: 0px 5px;
+}
+
 .grid {
   display: flex;
   gap: 25px;

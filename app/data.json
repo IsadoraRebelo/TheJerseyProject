@@ -8,9 +8,7 @@
         "type": "home",
         "country": "Brazil",
         "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg"
       },
       {
         "id": 102,
@@ -18,205 +16,197 @@
         "type": "third",
         "country": "The Netherlands",
         "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg",
+        "player": "Weghorst",
+        "number": 25
       },
       {
         "id": 103,
-        "team": "Flamengo",
+        "team": "Bayern Munich",
         "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "country": "Germany",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d80ce170b8ca4456a62bbc45f56eae09_9366/FC_Bayern_Munchen_24-25_Thuisshirt_Rood_IT8511_HM30.jpg"
       },
       {
         "id": 104,
-        "team": "Ajax",
+        "team": "Bayern Munich",
         "type": "third",
-        "country": "The Netherlands",
+        "country": "Germany",
         "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7aae955a7c64dc8a9cd9665d1f424ad_9366/FC_Bayern_Munchen_24-25_Vrouwenelftal_Derde_Shirt_Beige_JG8218_01_laydown.jpg"
       },
       {
         "id": 105,
-        "team": "Flamengo",
+        "team": "Celtic",
         "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "country": "Ireland",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/53fae95bf43d4d8a81d3d7634771ec98_9366/Celtic_FC_24-25_Thuisshirt_Wit_IX7863_HM30.jpg"
       },
       {
         "id": 106,
-        "team": "Ajax",
-        "type": "third",
-        "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "team": "Germany",
+        "type": "home",
+        "country": "Germany",
+        "season": "2024",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f704fd99b7f47eb9fc05a9d20c83c2a_9366/Duitsland_24_Thuisshirt_Wit_IP6131_01_laydown.jpg"
       },
       {
         "id": 107,
         "team": "Flamengo",
-        "type": "home",
+        "type": "third",
         "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "season": "2023",
+        "image": "https://cdn.footballkitarchive.com/2024/01/07/nFGZ2FIKCtQchKj.jpg"
       },
       {
         "id": 108,
-        "team": "Ajax",
-        "type": "third",
-        "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2019",
+        "image": "https://cdn.footballkitarchive.com/2020/05/sHRyYJiA5qtzsq3.jpg"
       },
       {
         "id": 109,
         "team": "Flamengo",
-        "type": "home",
+        "type": "third",
         "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "season": "2023",
+        "image": "https://cdn.footballkitarchive.com/2024/07/17/4sjPc8XpgwEeShm.jpg"
       },
       {
         "id": 110,
-        "team": "Ajax",
-        "type": "third",
-        "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
-      },
-      {
-        "id": 111,
         "team": "Flamengo",
-        "type": "home",
+        "type": "special",
         "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "season": "2021",
+        "image": "https://static.netshoes.com.br/produtos/camisa-flamengo-dia-consciencia-negra-2122-sn-torcedor-adidas-feminina/06/3ZP-2787-006/3ZP-2787-006_zoom1.jpg?ts=1694699105?ims=400x",
         "player": "Gabi",
         "number": 10
       },
       {
+        "id": 111,
+        "team": "Bayern Munich",
+        "type": "away",
+        "country": "Germany",
+        "season": "22/24",
+        "image": "https://cdn.footballkitarchive.com/2022/07/07/I9wv4SWvErXomCO.jpg",
+        "player": "Muller",
+        "number": 25
+      },
+      {
         "id": 112,
-        "team": "Ajax",
+        "team": "Bayern Munich",
         "type": "third",
-        "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "country": "Germany",
+        "season": "21/22",
+        "image": "https://cdn.footballkitarchive.com/2021/08/17/u6OlTCXZUlpvwki.jpg"
       },
       {
         "id": 101,
-        "team": "Flamengo",
-        "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "team": "Bayern Munich",
+        "type": "away",
+        "country": "Germany",
+        "season": "21/22",
+        "image": "https://cdn.footballkitarchive.com/2021/05/20/zS1k23yTJoGsE7Y.jpg"
       },
       {
         "id": 102,
-        "team": "Ajax",
+        "team": "Bayern Munich",
         "type": "third",
-        "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "country": "Germany",
+        "season": "20/21",
+        "image": "https://cdn.footballkitarchive.com/2020/09/28/CVK7i5UQsoWrute.jpg",
+        "player": "Kimmich",
+        "number": 32
       },
       {
         "id": 103,
-        "team": "Flamengo",
-        "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "team": "Bayern Munich",
+        "type": "special",
+        "country": "Germany",
+        "season": "23/24",
+        "image": "https://cdn.footballkitarchive.com/2023/09/15/ULNr3wwEO7xnI36.jpg"
       },
       {
         "id": 104,
-        "team": "Ajax",
-        "type": "third",
-        "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "team": "Bayern Munich",
+        "type": "home",
+        "country": "Germany",
+        "season": "12/13",
+        "image": "https://cdn.footballkitarchive.com/2019/12/DOvoGCkRpHLGBQn.jpg"
       },
       {
         "id": 105,
-        "team": "Flamengo",
-        "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "team": "Bayern Munich",
+        "type": "special",
+        "country": "Germany",
+        "season": "21/22",
+        "image": "https://cdn.footballkitarchive.com/2021/09/16/PxHNqCZgLbqFo4B.jpg"
       },
       {
         "id": 106,
         "team": "Ajax",
-        "type": "third",
+        "type": "away",
         "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "season": "22/23",
+        "image": "https://cdn.footballkitarchive.com/2022/08/04/iL7cUp3hJyaitb1.jpg",
+        "player": "Berghuis",
+        "number": 23
       },
       {
         "id": 107,
-        "team": "Flamengo",
-        "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
-      },
-      {
-        "id": 108,
         "team": "Ajax",
         "type": "third",
         "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "season": "22/23",
+        "image": "https://cdn.footballkitarchive.com/2022/08/24/Ite6DUSpjS504kl.jpg"
+      },
+      {
+        "id": 108,
+        "team": "AC Milan",
+        "type": "home",
+        "country": "Italy",
+        "season": "05/06",
+        "image": "https://cdn.footballkitarchive.com/2021/05/04/9fvWkjSM0K6e973.jpg"
       },
       {
         "id": 109,
-        "team": "Flamengo",
-        "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "20/21",
+        "image": "https://cdn.footballkitarchive.com/2020/10/11/ALriiRs43ADlPOU.jpg",
+        "player": "Antony",
+        "number": 29
       },
       {
         "id": 110,
         "team": "Ajax",
-        "type": "third",
+        "type": "away",
         "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "season": "20/21",
+        "image": "https://cdn.footballkitarchive.com/2020/10/11/JJ08pJufHlvOFBq.jpg"
       },
       {
         "id": 111,
-        "team": "Flamengo",
+        "team": "Ajax",
         "type": "home",
-        "country": "Brazil",
-        "season": "2024",
-        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
-        "player": "Gabi",
-        "number": 10
+        "country": "The Netherlands",
+        "season": "20/21",
+        "image": "https://cdn.footballkitarchive.com/2023/03/01/TA40FEhGl96BVPE.jpg"
       },
       {
         "id": 112,
         "team": "Ajax",
-        "type": "third",
+        "type": "away",
         "country": "The Netherlands",
-        "season": "24/25",
-        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+        "season": "18/19",
+        "image": "https://cdn.footballkitarchive.com/2019/06/jL7BohCsjf8wROo.jpg",
+        "player": "Blind",
+        "number": 18
       }
     ]
   },

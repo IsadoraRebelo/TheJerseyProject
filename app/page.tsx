@@ -17,13 +17,14 @@ export default function Home() {
     fetchData();
   }, []);
 
-  console.log(collection);
-
   return (
     <div className={styles.page}>
       <main className={styles.main}>
         <h1> The Jersey Project - My Collection </h1>
       </main>
+      <div className={styles.status}>
+        Total Jerseys: {collection ? collection.jerseys.length : 0}
+      </div>
 
       <section className={styles.grid}>
         {collection ? (
@@ -39,7 +40,7 @@ export default function Home() {
               <div className={styles.information}>
                 <h2 className={styles.teamName}>{jersey.team}</h2>
                 <div className={styles.season}>
-                  {jersey.season} {jersey.type} uniform
+                  {jersey.season} {jersey.type}
                 </div>
                 <div className={styles.countryName}>{jersey.country}</div>
               </div>

@@ -14,4 +14,4 @@ export interface Jersey {
   number?: number;
 }
 
-export type JerseyType = "home" | "away" | "third";
+export type JerseyType = "home" | "away" | "third" | "special";
