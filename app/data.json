@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "jerseys": [
+      {
+        "id": 101,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 102,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 103,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 104,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 105,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 106,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 107,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 108,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 109,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 110,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 111,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 112,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 101,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 102,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 103,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 104,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 105,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 106,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 107,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 108,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 109,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 110,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      },
+      {
+        "id": 111,
+        "team": "Flamengo",
+        "type": "home",
+        "country": "Brazil",
+        "season": "2024",
+        "image": "https://cdn.footballkitarchive.com/2024/03/20/fQg2PUS35wPlPO8.jpg",
+        "player": "Gabi",
+        "number": 10
+      },
+      {
+        "id": 112,
+        "team": "Ajax",
+        "type": "third",
+        "country": "The Netherlands",
+        "season": "24/25",
+        "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/15125700874640cfbc3817caf0ab5d5e_9366/Ajax_Amsterdam_24-25_Derde_Shirt_Grijs_IT6156_HM30.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "jerseys": [
+      {
+        "id": 113,
+        "team": "Team C",
+        "type": "away",
+        "country": "Country Z",
+        "season": "2019",
+        "image": "image_url_3",
+        "player": "Player 2",
+        "number": 7
+      }
+    ]
+  }
+]

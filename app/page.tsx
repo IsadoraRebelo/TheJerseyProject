@@ -1,59 +1,54 @@
-import Image from "next/image";
+"use client";
+
+import { useEffect, useState } from "react";
 import styles from "./page.module.css";
+import Image from "next/image";
+import { fetchCollectionFromApi } from "./packages/responses/fetchCollectionFromApi";
+import { Collection } from "./packages/interfaces/collection";
 
 export default function Home() {
+  const [collection, setCollection] = useState<Collection | null>(null);
+
+  useEffect(() => {
+    async function fetchData() {
+      const data = await fetchCollectionFromApi(1);
+      setCollection(data);
+    }
+    fetchData();
+  }, []);
+
+  console.log(collection);
+
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <h1> The Jersey Project </h1>
-        <ol>
-          <li>27 September 2024: Set up repository and deploy to Vercel.</li>
-        </ol>
+        <h1> The Jersey Project - My Collection </h1>
       </main>
-      <footer className={styles.footer}>
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+
+      <section className={styles.grid}>
+        {collection ? (
+          collection.jerseys.map((jersey) => (
+            <div key={jersey.id} className={styles.jersey}>
+              <div className={styles.imageWrapper}>
+                <Image
+                  src={jersey.image}
+                  alt={`${jersey.team} ${jersey.season} ${jersey.type} jersey`}
+                  layout="fill"
+                />
+              </div>
+              <div className={styles.information}>
+                <h2 className={styles.teamName}>{jersey.team}</h2>
+                <div className={styles.season}>
+                  {jersey.season} {jersey.type} uniform
+                </div>
+                <div className={styles.countryName}>{jersey.country}</div>
+              </div>
+            </div>
+          ))
+        ) : (
+          <p>Loading...</p>
+        )}
+      </section>
     </div>
   );
 }
