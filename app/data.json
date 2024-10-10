@@ -87,7 +87,7 @@
         "number": 10
       },
       {
-        "id": 111,
+        "id": 115,
         "team": "Bayern Munich",
         "type": "away",
         "country": "Germany",
@@ -105,7 +105,7 @@
         "image": "https://cdn.footballkitarchive.com/2021/08/17/u6OlTCXZUlpvwki.jpg"
       },
       {
-        "id": 101,
+        "id": 1031,
         "team": "Bayern Munich",
         "type": "away",
         "country": "Germany",
@@ -113,7 +113,7 @@
         "image": "https://cdn.footballkitarchive.com/2021/05/20/zS1k23yTJoGsE7Y.jpg"
       },
       {
-        "id": 102,
+        "id": 192,
         "team": "Bayern Munich",
         "type": "third",
         "country": "Germany",
@@ -123,7 +123,7 @@
         "number": 32
       },
       {
-        "id": 103,
+        "id": 173,
         "team": "Bayern Munich",
         "type": "special",
         "country": "Germany",
@@ -131,7 +131,7 @@
         "image": "https://cdn.footballkitarchive.com/2023/09/15/ULNr3wwEO7xnI36.jpg"
       },
       {
-        "id": 104,
+        "id": 184,
         "team": "Bayern Munich",
         "type": "home",
         "country": "Germany",
@@ -139,7 +139,7 @@
         "image": "https://cdn.footballkitarchive.com/2019/12/DOvoGCkRpHLGBQn.jpg"
       },
       {
-        "id": 105,
+        "id": 175,
         "team": "Bayern Munich",
         "type": "special",
         "country": "Germany",
@@ -147,7 +147,7 @@
         "image": "https://cdn.footballkitarchive.com/2021/09/16/PxHNqCZgLbqFo4B.jpg"
       },
       {
-        "id": 106,
+        "id": 136,
         "team": "Ajax",
         "type": "away",
         "country": "The Netherlands",
@@ -157,7 +157,7 @@
         "number": 23
       },
       {
-        "id": 107,
+        "id": 127,
         "team": "Ajax",
         "type": "third",
         "country": "The Netherlands",
@@ -165,7 +165,7 @@
         "image": "https://cdn.footballkitarchive.com/2022/08/24/Ite6DUSpjS504kl.jpg"
       },
       {
-        "id": 108,
+        "id": 148,
         "team": "AC Milan",
         "type": "home",
         "country": "Italy",
@@ -173,7 +173,7 @@
         "image": "https://cdn.footballkitarchive.com/2021/05/04/9fvWkjSM0K6e973.jpg"
       },
       {
-        "id": 109,
+        "id": 122,
         "team": "Ajax",
         "type": "third",
         "country": "The Netherlands",
@@ -183,7 +183,7 @@
         "number": 29
       },
       {
-        "id": 110,
+        "id": 116,
         "team": "Ajax",
         "type": "away",
         "country": "The Netherlands",
@@ -199,7 +199,7 @@
         "image": "https://cdn.footballkitarchive.com/2023/03/01/TA40FEhGl96BVPE.jpg"
       },
       {
-        "id": 112,
+        "id": 114,
         "team": "Ajax",
         "type": "away",
         "country": "The Netherlands",

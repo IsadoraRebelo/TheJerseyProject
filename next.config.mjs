@@ -5,6 +5,7 @@ const nextConfig = {
       "cdn.footballkitarchive.com",
       "assets.adidas.com",
       "static.netshoes.com.br",
+      "gsmproject.com",
     ],
   },
 };
